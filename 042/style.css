@@ -1,0 +1,88 @@
+/*
+	Entertainotron.com Style Sheet
+
+	Author: The Entertainotron
+
+	Filename: style.css
+	supporting files: none
+
+*/
+
+	body {
+		background-color: #000000;
+		}
+
+	h1 {
+		font-size:35px;
+		color: black;
+		font-family: sans-serif;
+		text-align: center;
+		}
+
+	h3 {
+		font-size:19px;
+		color: black;
+		letter-spacing: .4em;
+		weight: 600;
+		}
+
+	h4 {
+		font-size:16px;
+		color: black;
+		font: sans-serif;
+		}
+		
+	a:link {
+		color: lightgreen; 
+		text-decoration: none;
+		}
+		
+
+	a:hover {
+		color: lightgreen; 
+		text-decoration: none;
+		}
+		
+	
+	a:visited {
+		color: gray; 
+		text-decoration: none;
+		}
+		
+	#body   { 
+		color: lightgreen; 
+		font-size: 10px; 
+		font-family: courier new; 
+		background-color: black; 
+		text-align: center; 
+		position: absolute; 
+		top: 200px; 
+		width: 100%; 
+		height: 300px 
+		} 
+		
+	#header   { 
+		color: #ffffff; 
+		font-size: 10px; 
+		font-family: courier new; 
+		background-color: black; 
+		text-align: center; 
+		position: absolute; 
+		top: 0px; 
+		left: 0px; 
+		width: 100%; 
+		height: 15px 
+		} 
+		
+	#footer   { 
+		color: #ffffff; 
+		font-size: 10px; 
+		font-family: courier new; 
+		background-color: gray; 
+		text-align: center; 
+		position: absolute; 
+		bottom: 0px; 
+		left: 0px; 
+		width: 100%; 
+		height: 15px 
+		} 

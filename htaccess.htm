@@ -1,0 +1,13 @@
+# Begin hotlink protection #
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http://entertainotron.com/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.entertainotron.com/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://revsyke.powweb.com/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.revsyke.powweb.com/.*$ [NC]
+RewriteRule .(gif|jpg|png|mp3|wav)$ http://entertainotron.com/ [R]
+# End hotlink protection #
+
+
+ErrorDocument 404 Custom Message : "404 page not found"
+
+

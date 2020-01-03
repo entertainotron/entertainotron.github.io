@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /001/
+Disallow: /042/
+Disallow: /121/
+Disallow: /404/
+Disallow: /666/
+Disallow: /error/
+Disallow: /cgi-bin/
+Disallow: /stats/
+
+
