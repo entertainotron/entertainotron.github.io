@@ -1,16 +1,9 @@
-/*
-	code.entertainotron.net Style Sheet
-	Author: Entertainotron
-	Filename: style.css
-*/
-
 body {
 	background-color: #000000;
 	color: lightgreen; 
 	font-size: 14px; 
 	font-family: courier new; 
 	text-align: center; 
-	height: 100%;
 	}
 		
 a:link {
@@ -27,18 +20,3 @@ a:visited {
 	color: green; 
 	text-decoration: none;
 	}
-		
-#header { 
-	margin-bottom: 15px;
-	position: absolute;
-	top: 0px;
-	} 
-#meat {
-	
-	}
-		
-#footer { 
-	color: gray;
-	position: absolute;
-	bottom: 0px;
-	} 
