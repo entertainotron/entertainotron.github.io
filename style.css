@@ -10,6 +10,7 @@ body {
 	font-size: 14px; 
 	font-family: courier new; 
 	text-align: center; 
+	height: 100%;
 	}
 		
 a:link {
@@ -29,13 +30,16 @@ a:visited {
 		
 #header { 
 	margin-bottom: 15px;
+	position: absolute;
+	top: 0px;
 	} 
 #meat {
-	
+	position: relative;
 	}
 		
 #footer { 
 	color: gray;
 	
-	position: bottom;
+	position: absolute;
+	bottom: 0px;
 	} 
