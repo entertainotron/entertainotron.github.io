@@ -7,11 +7,14 @@ body {
         margin-right: -50%;
         transform: translate(-50%, -50%)}	
 a:link {
-	color: gray; 
+	color: white; 
 	text-decoration: none;}	
 a:hover	{
-	color: lightgray; 
+	color: gray; 
 	text-decoration: none;}	
 a:visited {
-	color: lightslategray; 
+	color: lightgray; 
+	text-decoration: none;}
+a:visited:hover {
+	color: gray;
 	text-decoration: none;}
