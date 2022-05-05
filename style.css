@@ -8,20 +8,13 @@ body {
         top: 50%;
         left: 50%;
         margin-right: -50%;
-        transform: translate(-50%, -50%) 
-	}
-		
+        transform: translate(-50%, -50%)}	
 a:link {
 	color: lightgreen; 
-	text-decoration: none;
-	}
-		
+	text-decoration: none;}	
 a:hover	{
 	color: green; 
-	text-decoration: none;
-	}
-		
+	text-decoration: none;}	
 a:visited {
 	color: green; 
-	text-decoration: none;
-	}
+	text-decoration: none;}
