@@ -39,7 +39,6 @@ a:visited {
 		
 #footer { 
 	color: gray;
-	
-	position: absolute;
+	position: fixed;
 	bottom: 0px;
 	} 
