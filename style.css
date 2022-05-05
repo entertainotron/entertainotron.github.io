@@ -28,15 +28,14 @@ a:visited {
 	}
 		
 #header { 
-	height: 20px; 
+	height: 15px; 
 	} 
 #meat {
-	font-size: 28px;
 	line-height: 300px;
-	height:300px;
+	height:70%;
 	}
 		
 #footer { 
 	color: gray;
-	height: 20px;
+	height: 15%;
 	} 
