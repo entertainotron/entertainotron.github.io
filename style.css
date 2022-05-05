@@ -1,80 +1,41 @@
 /*
 	Entertainotron.com Style Sheet
-
 	Author: The Entertainotron
-
 	Filename: style.css
-	supporting files: none
-
 */
 
-	body {
-		background-color: #000000;
-		}
-
-	h1 {
-		font-size:35px;
-		color: black;
-		font-family: sans-serif;
-		text-align: center;
-		}
-
-	h3 {
-		font-size:19px;
-		color: black;
-		letter-spacing: .4em;
-		weight: 600;
-		}
-
-	h4 {
-		font-size:16px;
-		color: black;
-		font: sans-serif;
-		}
+body {
+	background-color: #000000;
+	color: lightgreen; 
+	font-size: 10px; 
+	font-family: courier new; 
+	text-align: center; 
+	width: 100%; 
+	height: 300px; 
+	}
 		
-	a:link {
-		color: lightgreen; 
-		text-decoration: none;
-		}
+a:link {
+	color: lightgreen; 
+	text-decoration: none;
+	}
 		
-
-	a:hover {
-		color: lightgreen; 
-		text-decoration: none;
-		}
+a:hover {
+	color: green; 
+	text-decoration: none;
+	}
 		
-	
-	a:visited {
-		color: gray; 
-		text-decoration: none;
-		}
+a:visited {
+	color: gray; 
+	text-decoration: none;
+	}
 		
-	#body   { 
-		color: lightgreen; 
-		font-size: 10px; 
-		font-family: courier new; 
-		background-color: black; 
-		text-align: center; 
-		width: 100%; 
-		height: 300px 
-		} 
+#header   { 
+	width: 100%; 
+	height: 15px; 
+	} 
 		
-	#header   { 
-		color: #ffffff; 
-		font-size: 10px; 
-		font-family: courier new; 
-		background-color: black; 
-		text-align: center; 
-		width: 100%; 
-		height: 15px 
-		} 
-		
-	#footer   { 
-		color: #ffffff; 
-		font-size: 10px; 
-		font-family: courier new; 
-		background-color: black; 
-		text-align: center; 
-		width: 100%; 
-		height: 15px 
-		} 
+#footer   { 
+	width: 100%; 
+	height: 15px;
+	color: gray;
+	} 
