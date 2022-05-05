@@ -28,15 +28,14 @@ a:visited {
 	}
 		
 #header { 
-	height: 15px; 
 	margin-bottom: 15px;
 	} 
 #meat {
-	height:70%;
+	
 	}
 		
 #footer { 
 	color: gray;
-	height: 15%;
+	
 	position: bottom;
 	} 
